@@ -38,6 +38,12 @@ I supported the build as part of the development team, helped review and merge p
 
 https://github.com/ChrisWozniak/pa-status-relay
 
-## Screenshot
+## Screenshots
 
-Coming soon.
+### Case List Dashboard
+
+![PA Status Relay case list dashboard](assets/pa-status-relay-cases.png)
+
+### Case Detail And Status Transition Drawer
+
+![PA Status Relay case detail and status transition drawer](assets/pa-status-relay-case-detail.png)
