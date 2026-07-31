@@ -8,6 +8,10 @@ Hotels can look busy based on reservation volume, but not all bookings become co
 
 StaySignal is a frontend hospitality intelligence dashboard that turns booking and market CSV data into operational signals. It helps hotel teams understand booking quality, identify risk, compare channels, review client profiles, and decide what management should do next.
 
+## Observe-Decide-Act Loop
+
+StaySignal observes booking, cancellation, channel, lead-time, client-history, ADR, and market CSV signals; applies scoring logic to classify reservation quality, fulfillment likelihood, client value, and market risk; then recommends management actions such as which reservations to watch, which clients may merit rewards, and where staffing, pricing, or channel strategy needs attention.
+
 ## Key Features
 
 - Demo booking data loader and CSV upload flow
