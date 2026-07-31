@@ -43,6 +43,12 @@ I built this group project with Nathan Hutton, focusing on the usable QR generat
 
 https://github.com/ChrisWozniak/whatsapp-qr-generator
 
-## Screenshot
+## Screenshots
 
-Coming soon.
+### Generator Form
+
+![WhatsApp QR Generator form screen](assets/whatsapp-qr-generator-form.png)
+
+### Generated QR Code Result
+
+![WhatsApp QR Generator result screen](assets/whatsapp-qr-generator-result.png)

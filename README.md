@@ -17,4 +17,4 @@ Across these builds, I practiced turning product requirements into working softw
 
 ## Screenshots
 
-Screenshots are coming soon. Each project page includes a placeholder section so images can be added later without changing the portfolio structure.
+Screenshots have been added for PA Status Relay and WhatsApp Contact QR Generator. Remaining project screenshots are marked as coming soon on their individual project pages.
