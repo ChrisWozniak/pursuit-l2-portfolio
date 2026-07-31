@@ -6,10 +6,10 @@ This repository is my public L2 portfolio for the AI Native / Pursuit build cycl
 
 | Build | Project | Summary | Repo |
 |---|---|---|---|
-| 1 | [PA Status Relay](builds/01-pa-status-relay/README.md) | Oncology prior authorization workflow prototype for tracking case status, patient-message previews, and audit evidence. | [GitHub](https://github.com/ChrisWozniak/pa-status-relay) |
-| 2 | [StaySignal](builds/02-staysignal/README.md) | Hospitality operations dashboard that scores booking quality and highlights cancellation, channel, lead-time, client, and market signals. | [GitHub](https://github.com/ChrisWozniak/StaySignal) |
-| 3 | [WhatsApp Contact QR Generator](builds/03-whatsapp-qr-generator/README.md) | Browser-based tool for generating WhatsApp contact QR codes with a freemium flow and premium customization prototype. | [GitHub](https://github.com/ChrisWozniak/whatsapp-qr-generator) |
-| 4 | [MarketMood](builds/04-marketmood/README.md) | Market and social sentiment dashboard with a React frontend, FastAPI backend, investment signals, and scheduled data refresh. | [GitHub](https://github.com/ChrisWozniak/MarketMood) |
+| 1 | [WhatsApp Contact QR Generator](builds/03-whatsapp-qr-generator/README.md) | Browser-based tool for generating WhatsApp contact QR codes with a freemium flow and premium customization prototype. | [GitHub](https://github.com/ChrisWozniak/whatsapp-qr-generator) |
+| 2 | [MarketMood](builds/04-marketmood/README.md) | Market and social sentiment dashboard with a React frontend, FastAPI backend, investment signals, and scheduled data refresh. | [GitHub](https://github.com/ChrisWozniak/MarketMood) |
+| 3 | [StaySignal](builds/02-staysignal/README.md) | Hospitality operations dashboard that scores booking quality and highlights cancellation, channel, lead-time, client, and market signals. | [GitHub](https://github.com/ChrisWozniak/StaySignal) |
+| 4 | [PA Status Relay](builds/01-pa-status-relay/README.md) | Oncology prior authorization workflow prototype for tracking case status, patient-message previews, and audit evidence. | [GitHub](https://github.com/ChrisWozniak/pa-status-relay) |
 
 ## What This Portfolio Shows
 
@@ -17,4 +17,4 @@ Across these builds, I practiced turning product requirements into working softw
 
 ## Screenshots
 
-Screenshots have been added for all four portfolio builds, including PA Status Relay, StaySignal, WhatsApp Contact QR Generator, and MarketMood.
+Screenshots have been added for all four portfolio builds, including WhatsApp Contact QR Generator, MarketMood, StaySignal, and PA Status Relay.
