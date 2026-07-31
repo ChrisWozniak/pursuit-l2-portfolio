@@ -17,4 +17,4 @@ Across these builds, I practiced turning product requirements into working softw
 
 ## Screenshots
 
-Screenshots have been added for PA Status Relay and WhatsApp Contact QR Generator. Remaining project screenshots are marked as coming soon on their individual project pages.
+Screenshots have been added for PA Status Relay, WhatsApp Contact QR Generator, and MarketMood. Remaining project screenshots are marked as coming soon on their individual project pages.

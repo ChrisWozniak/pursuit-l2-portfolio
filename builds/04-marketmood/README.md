@@ -48,6 +48,12 @@ I worked on a full-stack market intelligence app structure, connecting frontend 
 
 https://github.com/ChrisWozniak/MarketMood
 
-## Screenshot
+## Screenshots
 
-Coming soon.
+### Market Mood Dashboard
+
+![Market Mood dashboard](assets/market-mood-dashboard.png)
+
+### Market Mood Signals and Market Pulse
+
+![Market Mood signals and market pulse](assets/market-mood-signals.png)
