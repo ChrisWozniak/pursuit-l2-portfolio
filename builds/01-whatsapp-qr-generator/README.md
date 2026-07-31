@@ -1,5 +1,7 @@
 # WhatsApp Contact QR Generator
 
+Portfolio build 1 of 4 in the L2 portfolio.
+
 ## Problem
 
 WhatsApp has a built-in QR feature, but it is not easy to use from a desktop browser, export as a clean branded card, or adapt into a freemium product experience. Users need a quick way to generate and save a scannable WhatsApp contact QR without installing another app.

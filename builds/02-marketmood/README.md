@@ -1,5 +1,7 @@
 # MarketMood
 
+Portfolio build 2 of 4 in the L2 portfolio.
+
 ## Problem
 
 Market research is spread across price movement, social discussion, trend signals, and economic context. A user needs one place to understand market mood, social sentiment, and investment-relevant signals without manually checking many sources.

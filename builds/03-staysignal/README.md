@@ -1,5 +1,7 @@
 # StaySignal
 
+Portfolio build 3 of 4 in the L2 portfolio.
+
 ## Problem
 
 Hotels can look busy based on reservation volume, but not all bookings become completed stays. Management needs a clearer view of cancellation risk, channel reliability, lead-time fragility, client behavior, and market context before making staffing, pricing, and guest-recognition decisions.
