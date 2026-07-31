@@ -8,6 +8,10 @@ Market research is spread across price movement, social discussion, trend signal
 
 MarketMood is a full-stack dashboard that combines a React frontend with a FastAPI backend. It surfaces market pulse, social sentiment, trending topics, technology momentum, and investment signal views through API-backed dashboard components.
 
+## Core Data Insight
+
+The build was centered on comparing social sentiment with price movement instead of looking at either signal alone. The key insight is that convergence between rising sentiment and rising prices can suggest market momentum, while divergence, such as strong social excitement with weak or falling price action, can flag speculative attention, hype risk, or a signal that needs more evidence before acting.
+
 ## Key Features
 
 - React dashboard frontend
