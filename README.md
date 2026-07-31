@@ -6,10 +6,10 @@ This repository is my public L2 portfolio for the AI Native / Pursuit build cycl
 
 | Build | Project | Summary | Repo |
 |---|---|---|---|
-| 1 | [WhatsApp Contact QR Generator](builds/03-whatsapp-qr-generator/README.md) | Browser-based tool for generating WhatsApp contact QR codes with a freemium flow and premium customization prototype. | [GitHub](https://github.com/ChrisWozniak/whatsapp-qr-generator) |
-| 2 | [MarketMood](builds/04-marketmood/README.md) | Market and social sentiment dashboard with a React frontend, FastAPI backend, investment signals, and scheduled data refresh. | [GitHub](https://github.com/ChrisWozniak/MarketMood) |
-| 3 | [StaySignal](builds/02-staysignal/README.md) | Hospitality operations dashboard that scores booking quality and highlights cancellation, channel, lead-time, client, and market signals. | [GitHub](https://github.com/ChrisWozniak/StaySignal) |
-| 4 | [PA Status Relay](builds/01-pa-status-relay/README.md) | Oncology prior authorization workflow prototype for tracking case status, patient-message previews, and audit evidence. | [GitHub](https://github.com/ChrisWozniak/pa-status-relay) |
+| 1 | [WhatsApp Contact QR Generator](builds/01-whatsapp-qr-generator/README.md) | Browser-based tool for generating WhatsApp contact QR codes with a freemium flow and premium customization prototype. | [GitHub](https://github.com/ChrisWozniak/whatsapp-qr-generator) |
+| 2 | [MarketMood](builds/02-marketmood/README.md) | Market and social sentiment dashboard with a React frontend, FastAPI backend, investment signals, and scheduled data refresh. | [GitHub](https://github.com/ChrisWozniak/MarketMood) |
+| 3 | [StaySignal](builds/03-staysignal/README.md) | Hospitality operations dashboard that scores booking quality and highlights cancellation, channel, lead-time, client, and market signals. | [GitHub](https://github.com/ChrisWozniak/StaySignal) |
+| 4 | [PA Status Relay](builds/04-pa-status-relay/README.md) | Oncology prior authorization workflow prototype for tracking case status, patient-message previews, and audit evidence. | [GitHub](https://github.com/ChrisWozniak/pa-status-relay) |
 
 ## What This Portfolio Shows
 
