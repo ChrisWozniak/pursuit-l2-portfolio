@@ -4,6 +4,8 @@ I am Chris Wozniak, an AI-native builder focused on turning practical workflow p
 
 ## Portfolio Builds
 
+The [builds folder](builds/README.md) contains the same four projects in numbered order.
+
 | Build | Project | Description | Repo |
 |---|---|---|---|
 | 1 | [WhatsApp Contact QR Generator](builds/01-whatsapp-qr-generator/README.md) | A browser-based QR tool that turns a name and phone number into a scannable WhatsApp contact card. This build shows polished frontend execution, input validation, PNG/SVG export flows, freemium product logic, and demo-ready edge-case handling without needing a backend. | [GitHub](https://github.com/ChrisWozniak/whatsapp-qr-generator) |
