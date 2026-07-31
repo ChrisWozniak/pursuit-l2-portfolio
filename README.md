@@ -1,6 +1,6 @@
 # Chris Wozniak - L2 Portfolio
 
-This repository is my public L2 portfolio for the AI Native / Pursuit build cycles. It collects four shipped projects and explains what each one solves, what I built, the main features, and the technologies used.
+I am Chris Wozniak, an AI-native builder focused on turning practical workflow problems into usable software. I use AI tools, product thinking, and hands-on engineering to move ideas from rough requirements into working demos, documented projects, and portfolio-ready releases. This L2 portfolio collects four cycle builds and shows how I approach frontend interfaces, data workflows, full-stack systems, and user-centered problem solving.
 
 ## Portfolio Builds
 
